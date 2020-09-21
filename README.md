@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=evildevill&show_icons=true" alt="evildevill GitHub Stats" />
 </a>
 <a href="https://github.com/evildevill">
-  <img src="https://github-readme-language.vercel.app/api?username=evildevill&show_icons=true" alt="evildevill GitHub Stats" />
+  <img src="https://github-readme-languages.vercel.app/api?username=evildevill&show_icons=true" alt="evildevill GitHub Stats" />
 </a>
 
 <br />
