@@ -1,7 +1,7 @@
-<h2>Hi, I'm WaSi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com">
+<a href="https://twitter.com/hackerwasii">
   <img align="left" alt="Hackerwasii| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com//">
@@ -17,14 +17,14 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 20 years old Self-taught developer, technical support engineer , Graphics Designer from Pakistan.
+### I'm 18 years old Self-taught developer, technical support engineer , Graphics Designer from Pakistan.
 
 <br/>
 
 
 **I am Into , 🙏**
 <br/>
-**Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
+**Certified JAVA Developer, Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
 
 <br/>
 
