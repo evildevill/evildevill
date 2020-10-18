@@ -1,4 +1,4 @@
-<h2>Hi, I'm ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm WaSim Akram! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 <a href="https://twitter.com/hackerwasii">
