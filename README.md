@@ -1,10 +1,10 @@
-<h2>Hi, I'm WaSim Akram! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Waseem Akram! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com/hackerwasii">
+<a href="https://twitter.com/offsecexp">
   <img align="left" alt="Hackerwasii| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com//">
+<a href="https://www.instagram.com/blckspidr">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/evildevill">
@@ -17,7 +17,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 18 years old Self-taught developer, technical support engineer , Graphics Designer from Pakistan.
+### I'm 19 years old Self-taught developer, Ethical Hacker, technical support engineer from Pakistan.
 
 <br/>
 
