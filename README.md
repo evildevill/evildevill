@@ -16,8 +16,8 @@ Want to know more about me? [Check out my portfolio.](https://bit.ly/hackerwasii
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Create Open Graph Images with Cloudinary and Next.js](https://braydoncoyer.dev/blog/how-to-dynamically-create-open-graph-images-with-cloudinary-and-next.js)
-- [Introducing My New Blogfolio](https://braydoncoyer.dev/blog/introducing-my-new-blogfolio)
+- [How to install MinGW C/C++ Compiler in Windows 11 or 10](https://hackerwasii.blogspot.com/2021/12/how-to-install-mingw-cc-compiler-in.html)
+- [Identifying Devices on a Network](https://hackerwasii.blogspot.com/2021/07/identifying-devices-on-network.html)
 - [Maximize Component Reusability with Bit](https://braydoncoyer.dev/blog/maximize-component-reusability-with-bit)
 - [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
 - [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid)
