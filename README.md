@@ -129,9 +129,10 @@ Want to know more about me? [Check out my portfolio.](https://bit.ly/hackerwasii
 
 ## 📣 How about an Office quote before you go?
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> Making time to step back and actively assess a situation is critical to being able to make good decisions. This sort of perception might not come naturally – but it’s a necessary skill.
+In other words, try smarter.🙃
 >
-> <p>- Pam Beesly</p>
+> <p>- wasii 🌸🖤</p>
 
 Check back at the top of the hour for a new quote!
 
