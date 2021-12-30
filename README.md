@@ -127,7 +127,7 @@ Want to know more about me? [Check out my portfolio.](https://bit.ly/hackerwasii
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about an quote before you go?
 
 > Making time to step back and actively assess a situation is critical to being able to make good decisions. This sort of perception might not come naturally – but it’s a necessary skill.
 In other words, try smarter.🙃
