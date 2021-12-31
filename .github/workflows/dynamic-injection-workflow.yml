@@ -25,8 +25,8 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "Your Name"
-          git config --global user.email "Your E-Mail"
+          git config --global user.name "evildevill"
+          git config --global user.email "hackerbad669@gmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
       - name: Push
         uses: ad-m/github-push-action@master
