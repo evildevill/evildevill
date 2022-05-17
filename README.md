@@ -6,7 +6,8 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/evildevill/)](https://github.com/evildevill/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hackerwasii/)](https://www.linkedin.com/in/hackerwasii)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/hackerwasii)](https://www.hackerrank.com/hackerwasii)
-[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-2EC866?style=flat-square&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/hackerwasii)](https://tryhackme.com/p/hackerwasii)
+[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=flat-square&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/hackerwasii)](https://tryhackme.com/p/hackerwasii)
+[![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/hackerwasii)](https://facebook.com/hackerwasii)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hackerwasi1@gmail.com)](mailto:hackerwasi1@gmail.com)
 
 
