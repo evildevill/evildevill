@@ -17,7 +17,7 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on _____
+- 🔭 I’m currently working on Bug Bounty✌😉__
 - 🌱 I’m currently learning c++
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
