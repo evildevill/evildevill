@@ -9,7 +9,7 @@
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=flat-square&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/hackerwasii)](https://tryhackme.com/p/hackerwasii)
 [![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/hackerwasii)](https://facebook.com/hackerwasii)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hackerwasi1@gmail.com)](mailto:hackerwasi1@gmail.com)
-
+[![YouTube Badge](https://img.shields.io/badge/-Youtube-d14836?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/HackerWasii)](https://youtube.com/HackerWasii)
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
