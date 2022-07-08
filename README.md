@@ -19,13 +19,14 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on Bug Bounty✌😉__
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently **Ruby**
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
   - 🛠 Ethical Hacking
+  - 🐞 Bug Bounty
+  - 📊 Machine Learning & Data Science
+  - 🖼  Computer Vision
   - 🤖 Robotics
 - 📝 I write technical blogs and articles on cyber security
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
