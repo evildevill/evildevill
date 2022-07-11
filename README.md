@@ -80,6 +80,8 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 
 [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://bit.ly/hackerwasiisg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=evildevill&theme=onedark)](https://github.com/evildevill)
+
 <details>
 <summary> 💥 Working on </summary>
 <br>
