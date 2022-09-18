@@ -1,4 +1,4 @@
-<h1>🤙Hey!, I am <a href="https://github.com/evildevill">Waseem Akram</a></h1>
+<h1>🤙Hey, I am <a href="https://github.com/evildevill">Waseem Akram</a></h1>
 </h1>
 
 ### 📬 Find me at
