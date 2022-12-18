@@ -14,7 +14,7 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecolleges.edu.pk/)** pursuing ICS. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** pursuing BBIT. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -32,7 +32,7 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, C, Bash, PHP, JavaScript
-- 📙 Check out my [Portfolio](https://bit.ly/hackerwasii/)
+- 📙 Check out my [Portfolio](https://bit.ly/hackerwasiisg/)
 - 🎉 Fun-Fact: I ❤️ Listening to Music🚀 Watching Movies 🎬 Studying📚
 
 <details>
@@ -119,6 +119,7 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to hack instagram using bruteforce](https://hackerwasii.com/product)
 - [How to Spoof Messages](https://hackerwasii.blogspot.com/2021/04/how-to-spoof-sms-messages.html)
 - [Identifying Devices on a Network](https://hackerwasii.blogspot.com/2021/07/identifying-devices-on-network.html)
 - [How to install MinGW C/C++ Compiler in Windows 11 or 10](https://hackerwasii.blogspot.com/2021/12/how-to-install-mingw-cc-compiler-in.html)
