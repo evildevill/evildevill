@@ -29,7 +29,7 @@ I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** p
   - 🖼  Computer Vision
   - 🤖 Robotics
 - 📝 I write technical blogs and articles on cyber security
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+<!-- - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano -->
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, C, C++, Bash, PHP, JavaScript, Ruby
 - 📙 Check out my [Portfolio](https://hackerwasii.com/)
