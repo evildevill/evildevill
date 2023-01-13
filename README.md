@@ -19,7 +19,7 @@ I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** p
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on Bug Bounty✌😉__
-- 🌱 I’m currently **Ruby**
+- 🌱 I’m currently learning **Solidity**
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
@@ -31,8 +31,8 @@ I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** p
 - 📝 I write technical blogs and articles on cyber security
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, C, Bash, PHP, JavaScript
-- 📙 Check out my [Portfolio](https://bit.ly/hackerwasiisg/)
+- 💬 Ask me about Python, C, C++, Bash, PHP, JavaScript, Ruby
+- 📙 Check out my [Portfolio](https://hackerwasii.com/)
 - 🎉 Fun-Fact: I ❤️ Listening to Music🚀 Watching Movies 🎬 Studying📚
 
 <details>
