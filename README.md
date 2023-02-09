@@ -1,4 +1,4 @@
-<h1>🤙Hey, I am <a href="https://github.com/evildevill">Waseem Akram</a></h1>
+<h1>🤙Hey, I am <a href="https://hackerwasii.com">Waseem Akram</a></h1>
 </h1>
 
 ### 📬 Find me at
@@ -14,7 +14,7 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** pursuing BBIT. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@University of Management and Technology](https://www.umt.edu.pk/)** pursuing SE. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -28,8 +28,7 @@ I'm an **Undergrad Student🎓 [@Virtual University](https://www.vu.edu.pk/)** p
   - 📊 Machine Learning & Data Science
   - 🖼  Computer Vision
   - 🤖 Robotics
-- 📝 I write technical blogs and articles on cyber security
-<!-- - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano -->
+- 📝 I write technical blogs and articles on cyber security [Blog](https://hackerwasii.com/posts)
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, C, C++, Bash, PHP, JavaScript, Ruby
 - 📙 Check out my [Portfolio](https://hackerwasii.com/)
