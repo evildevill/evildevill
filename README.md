@@ -15,6 +15,7 @@
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I'm an **Undergrad Student🎓 [@University of Management and Technology](https://www.umt.edu.pk/)** pursuing SE. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
 
 ## ⚡️ A Few Quick Facts
 
@@ -77,7 +78,7 @@ I'm an **Undergrad Student🎓 [@University of Management and Technology](https:
 <br>
 </p>
 
-[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://bit.ly/hackerwasiisg)
+<!-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=evildevill&theme=onedark)](https://github.com/evildevill)
 
