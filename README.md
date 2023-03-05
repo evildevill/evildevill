@@ -14,13 +14,13 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm an **Undergrad Student🎓 [@University of Management and Technology](https://www.umt.edu.pk/)** pursuing SE. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)** pursuing BBIT. I'm a **Tech & Cyber Security Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on Bug Bounty✌😉__
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **C#**
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
