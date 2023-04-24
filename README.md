@@ -8,7 +8,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/hackerwasi1)](https://www.hackerrank.com/hackerwasi1)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=flat-square&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/hackerwasii)](https://tryhackme.com/p/hackerwasii)
 [![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/hackerwasii)](https://facebook.com/hackerwasii)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hackerwasi1@gmail.com)](mailto:hackerwasi1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hackerwasi1@gmail.com)](mailto:support@hackerwasii.com)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-d14836?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/HackerWasii)](https://youtube.com/@hackerwasii)
 <!-- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=bae435fce7a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) -->
 
