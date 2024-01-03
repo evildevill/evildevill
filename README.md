@@ -34,6 +34,7 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 - 💬 Ask me about Python, C, C++, Bash, PHP, JavaScript, Ruby
 - 📙 Check out my [Portfolio](https://hackerwasii.com/)
 - 🎉 Fun-Fact: I ❤️ Listening to Music🚀 Watching Movies 🎬 Studying📚
+- <a href="https://www.buymeacoffee.com/hackerwasii" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <details>
   <summary>Some more stuff 😄</summary>
