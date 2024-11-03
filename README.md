@@ -29,12 +29,11 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
   - 📊 Machine Learning & Data Science
   - 🖼  Computer Vision
   - 🤖 Robotics
-- 📝 I write technical blogs and articles on cyber security [Blog](https://hackerwasii.com/posts)
-- 🤔 I’m looking for help with Devops
+- 📝 I write technical blogs and articles on cyber security [Blog](https://hackerwasii.com/blog)
+- 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Python, C, C++, Bash, PHP, JavaScript, Ruby
 - 📙 Check out my [Portfolio](https://hackerwasii.com/)
 - 🎉 Fun-Fact: I ❤️ Listening to Music🚀 Watching Movies 🎬 Studying📚
-- <a href="https://www.buymeacoffee.com/hackerwasii" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <details>
   <summary>Some more stuff 😄</summary>
@@ -42,7 +41,7 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Some Tools and Tech I use
 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -90,11 +89,10 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 ## 📌 Pinned Repositories
 
 <br>
-
-<a href="https://github.com/evildevill/instahack">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=instahack&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+  <a href="https://github.com/evildevill/instahack">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=instahack&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  
 <br>
 
 <a href="https://github.com/evildevill/instainfo">
@@ -102,25 +100,25 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 </a>
 
 <br>
-
-<a href="https://github.com/evildevill/Hackerwasi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Hackerwasi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+  <a href="https://github.com/evildevill/Hackerwasi">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Hackerwasi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  
 <br>
+
 <a href="https://github.com/evildevill/EmptyPhish">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Fatrat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
-<br>
+
 </p>
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to hack instagram using bruteforce](https://hackerwasii.com/product)
+- [How to hack Instagram using bruteforce](https://hackerwasii.com/product)
 - [How to Spoof Messages](https://hackerwasii.blogspot.com/2021/04/how-to-spoof-sms-messages.html)
 - [Identifying Devices on a Network](https://hackerwasii.blogspot.com/2021/07/identifying-devices-on-network.html)
 - [How to install MinGW C/C++ Compiler in Windows 11 or 10](https://hackerwasii.blogspot.com/2021/12/how-to-install-mingw-cc-compiler-in.html)
