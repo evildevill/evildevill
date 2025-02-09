@@ -118,7 +118,10 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://hackerwasii.com/blogposts/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
+- [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com/blogposts/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
+- [Complete Wifi Hacking Course 2025](https://hackerwasii.com/blogposts/wifi-hacking-course)
+- [Malware Development 5 - Malware analysis evasion via Api Hashing &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-5-malware-analysis-evasion-via-api-hashing-golang)
 <!-- BLOG-POST-LIST:END -->
 
 - [How to hack Instagram using bruteforce](https://hackerwasii.com/product)
