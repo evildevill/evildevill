@@ -41,6 +41,7 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 - [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com/blogposts/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
 - [Complete Wifi Hacking Course 2025](https://hackerwasii.com/blogposts/wifi-hacking-course)
 - [Malware Development 5 - Malware analysis evasion via Api Hashing &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-5-malware-analysis-evasion-via-api-hashing-golang)
+- [Malware Development 4 - Dump lsass.exe process + AV/EDR evasion &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-4-dump-lsassexe-process-avedr-evasion-golang)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
