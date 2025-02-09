@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://rss.app/feeds/kefdtplybieq0j1m.xml"
+                feed_list: "https://hackerwasii.com/feed.xml"
