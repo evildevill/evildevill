@@ -118,14 +118,15 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 - [How to hack Instagram using bruteforce](https://hackerwasii.com/product)
 - [How to Spoof Messages](https://hackerwasii.blogspot.com/2021/04/how-to-spoof-sms-messages.html)
 - [Identifying Devices on a Network](https://hackerwasii.blogspot.com/2021/07/identifying-devices-on-network.html)
 - [How to install MinGW C/C++ Compiler in Windows 11 or 10](https://hackerwasii.blogspot.com/2021/12/how-to-install-mingw-cc-compiler-in.html)
 - [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
 - [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid)
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 
 </details>
