@@ -35,6 +35,14 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 - 📙 Check out my [Portfolio](https://hackerwasii.com/)
 - 🎉 Fun-Fact: I ❤️ Listening to Music🚀 Watching Movies 🎬 Studying📚
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://hackerwasii.com/blogposts/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
+- [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com/blogposts/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
+- [Complete Wifi Hacking Course 2025](https://hackerwasii.com/blogposts/wifi-hacking-course)
+- [Malware Development 5 - Malware analysis evasion via Api Hashing &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-5-malware-analysis-evasion-via-api-hashing-golang)
+<!-- BLOG-POST-LIST:END -->
+
 <details>
   <summary>Some more stuff 😄</summary>
   
@@ -109,27 +117,4 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 <a href="https://github.com/evildevill/EmptyPhish">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Fatrat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-
-</p>
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://hackerwasii.com/blogposts/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
-- [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com/blogposts/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
-- [Complete Wifi Hacking Course 2025](https://hackerwasii.com/blogposts/wifi-hacking-course)
-- [Malware Development 5 - Malware analysis evasion via Api Hashing &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-5-malware-analysis-evasion-via-api-hashing-golang)
-<!-- BLOG-POST-LIST:END -->
-
-- [How to hack Instagram using bruteforce](https://hackerwasii.com/product)
-- [How to Spoof Messages](https://hackerwasii.blogspot.com/2021/04/how-to-spoof-sms-messages.html)
-- [Identifying Devices on a Network](https://hackerwasii.blogspot.com/2021/07/identifying-devices-on-network.html)
-- [How to install MinGW C/C++ Compiler in Windows 11 or 10](https://hackerwasii.blogspot.com/2021/12/how-to-install-mingw-cc-compiler-in.html)
-- [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid)
-<br>
-
 </details>
