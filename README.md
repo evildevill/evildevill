@@ -37,11 +37,11 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Middleware Vulnerability – CVE-2025-29927](https://hackerwasii.com/blogposts/nextjs-middleware-vulnerability-cve-2025-29927)
 - [Kubernetes Cluster Setup Using Kubeadm on AWS](https://hackerwasii.com/blogposts/kubernetes-cluster-setup-using-kubeadm-on-aws)
 - [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://hackerwasii.com/blogposts/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
 - [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com/blogposts/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
 - [Complete Wifi Hacking Course 2025](https://hackerwasii.com/blogposts/wifi-hacking-course)
-- [Malware Development 5 - Malware analysis evasion via Api Hashing &lpar;Golang&rpar;](https://hackerwasii.com/blogposts/malware-development-5-malware-analysis-evasion-via-api-hashing-golang)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
