@@ -37,11 +37,11 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Protecting Your Online Privacy in 2025](https://beta.hackerwasii.com//blog/ultimate-guide-online-privacy-2025)
-- [Next.js Middleware Vulnerability – CVE-2025-29927](https://beta.hackerwasii.com//blog/nextjs-middleware-vulnerability-cve-2025-29927)
-- [Kubernetes Cluster Setup Using Kubeadm on AWS](https://beta.hackerwasii.com//blog/kubernetes-cluster-setup-using-kubeadm-on-aws)
-- [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://beta.hackerwasii.com//blog/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
-- [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://beta.hackerwasii.com//blog/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
+- [The Ultimate Guide to Protecting Your Online Privacy in 2025](https://hackerwasii.com//blog/ultimate-guide-online-privacy-2025)
+- [Next.js Middleware Vulnerability – CVE-2025-29927](https://hackerwasii.com//blog/nextjs-middleware-vulnerability-cve-2025-29927)
+- [Kubernetes Cluster Setup Using Kubeadm on AWS](https://hackerwasii.com//blog/kubernetes-cluster-setup-using-kubeadm-on-aws)
+- [How to Access Shared Folders in VMware on Kali Linux: A Step-by-Step Guide for Newbies](https://hackerwasii.com//blog/how-to-access-shared-folders-in-vmware-on-kali-linux-a-step-by-step-guide-for-newbies)
+- [The Complete Linux Essentials Guide: Learn, Apply, and Master Linux Skills](https://hackerwasii.com//blog/the-complete-linux-essentials-guide-learn-apply-and-master-linux-skills)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
