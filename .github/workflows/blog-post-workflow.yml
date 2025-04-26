@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   workflow_dispatch: {}      # Allows manual trigger
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 1 1,3,5,7,9,11 *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
