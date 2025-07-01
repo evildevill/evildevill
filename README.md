@@ -37,11 +37,11 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Subdomain Enumeration for Bug Bounty Hunters: Tools &amp; Techniques](https://hackerwasii.com//blog/subdomain-enumeration-bug-bounty-hunters-tools-techniques)
-- [Hosting a Next.js App in Production on Ubuntu VPS](https://hackerwasii.com//blog/hosting-a-next-js-app-in-production-on-ubuntu-vps)
-- [The Ultimate Guide to Protecting Your Online Privacy in 2025](https://hackerwasii.com//blog/ultimate-guide-online-privacy-2025)
-- [Next.js Middleware Vulnerability – CVE-2025-29927](https://hackerwasii.com//blog/nextjs-middleware-vulnerability-cve-2025-29927)
-- [Kubernetes Cluster Setup Using Kubeadm on AWS](https://hackerwasii.com//blog/kubernetes-cluster-setup-using-kubeadm-on-aws)
+- [Volatility Essentials Walkthrough – Complete Memory Forensics Guide with Volatility 3](https://hackerwasii.com/blog/volatility-essentials-tryhackme-walkthrough)
+- [Roundcube RCE Vulnerability Explained [CVE-2025-49113] - TryHackMe Walkthrough](https://hackerwasii.com/blog/roundcube-cve-2025-49113-tryhackme-walkthrough)
+- [🚀 Getting Started with Bash Scripting: Level Up Your Automation Game](https://hackerwasii.com/blog/getting-started-with-bash-scripting)
+- [Subdomain Enumeration for Bug Bounty Hunters: Tools &amp; Techniques](https://hackerwasii.com/blog/subdomain-enumeration-bug-bounty-hunters-tools-techniques)
+- [Hosting a Next.js App in Production on Ubuntu VPS](https://hackerwasii.com/blog/hosting-a-next-js-app-in-production-on-ubuntu-vps)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
