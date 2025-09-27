@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://hackerwasii.com/feed.xml"
+          feed_list: "https://wasii.dev/feed.xml"
