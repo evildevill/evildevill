@@ -37,11 +37,11 @@ I'm an **Undergrad Student🎓at [@Virtual University](https://www.vu.edu.pk/)**
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Cipher&#39;s Secret Message – TryHackMe Walkthrough](https://hackerwasii.com/blog/ciphers-secret-message-tryhackme-walkthrough)
-- [Volatility Essentials Walkthrough – Complete Memory Forensics Guide with Volatility 3](https://hackerwasii.com/blog/volatility-essentials-tryhackme-walkthrough)
-- [Roundcube RCE Vulnerability Explained [CVE-2025-49113] - TryHackMe Walkthrough](https://hackerwasii.com/blog/roundcube-cve-2025-49113-tryhackme-walkthrough)
-- [🚀 Getting Started with Bash Scripting: Level Up Your Automation Game](https://hackerwasii.com/blog/getting-started-with-bash-scripting)
-- [Subdomain Enumeration for Bug Bounty Hunters: Tools &amp; Techniques](https://hackerwasii.com/blog/subdomain-enumeration-bug-bounty-hunters-tools-techniques)
+- [Active Directory Pentesting Resources &lpar;2025 Guide&rpar;](https://wasii.dev/blog/active-directory-resources)
+- [Cipher&#39;s Secret Message – TryHackMe Walkthrough](https://wasii.dev/blog/ciphers-secret-message-tryhackme-walkthrough)
+- [Volatility Essentials Walkthrough – Complete Memory Forensics Guide with Volatility 3](https://wasii.dev/blog/volatility-essentials-tryhackme-walkthrough)
+- [Roundcube RCE Vulnerability Explained [CVE-2025-49113] - TryHackMe Walkthrough](https://wasii.dev/blog/roundcube-cve-2025-49113-tryhackme-walkthrough)
+- [🚀 Getting Started with Bash Scripting: Level Up Your Automation Game](https://wasii.dev/blog/getting-started-with-bash-scripting)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
