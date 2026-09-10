@@ -443,8 +443,6 @@ Likewise, an application is not valuable simply because it contains an LLM.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evildevill/evildevill/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
-
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
@@ -463,6 +461,16 @@ Likewise, an application is not valuable simply because it contains an LLM.
 
 **AI Engineering · AI Automation · Agentic Systems · Full-Stack · DevOps · Cloud · Security**
 
-[Website](https://wasii.dev) · [LinkedIn](https://www.linkedin.com/in/hackerwasii) · [GitHub](https://github.com/evildevill)
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+</div>
+
+<div align="center">
+        
+[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
 
 </div>
