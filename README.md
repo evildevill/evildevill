@@ -135,106 +135,17 @@ But architecture, constraints, validation, and production decisions remain engin
 
 ## Selected Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Absolute Enable Right Click & Copy
-
-**99K+ users · ★ 4.63**
-
-My largest Chrome extension, grown to nearly **100K users** without paid marketing.
-
-`Chrome Extensions` `JavaScript` `Browser APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Firewall Bypass VU
-
-**19K+ users · ★ 4.68**
-
-A productivity-focused Chrome extension built around the Virtual University ecosystem.
-
-`Chrome APIs` `Automation` `AI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Acadora
-
-A production learning platform published on Google Play.
-
-Features include guided learning, MCQ practice, short lectures, search, progress tracking, theming, and study tools.
-
-`React Native` `Expo` `Next.js` `Supabase`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Greeny
-
-A transit platform built around real-world public transport data.
-
-Thousands of stops, routes, schedules, ingestion pipelines, location-aware functionality, and automated data workflows.
-
-`React Native` `PostgreSQL` `Supabase` `GitHub Actions`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/selected-products.png" width="100%" alt="Selected products by Waseem Akram" />
+</p>
 
 ---
 
-## Browser Extensions
+## Browser Extensions & Developer Tools
 
-| Product | Reach | Rating |
-|---|---:|---:|
-| Absolute Enable Right Click & Copy | **99K+ users** | **4.63★** |
-| Firewall Bypass VU | **19K+ users** | **4.68★** |
-| DarkPDF | **1.5K+ users** | **4.13★** |
-| NetAcad Smart Copier | **1K+ users** | **5.0★** |
-
-**122K+ combined users across published Chrome extensions.**
-
----
-
-## Developer Tools
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Jinja Snippets Flask
-
-<h2>29K+</h2>
-
-**VS Code Marketplace installs**
-
-Developer tooling for improving Flask/Jinja development workflows.
-
-</td>
-
-<td align="center" width="50%">
-
-### BashSnippets
-
-<h2>9K+</h2>
-
-**VS Code Marketplace installs**
-
-Productivity-focused Bash scripting snippets for Visual Studio Code.
-
-</td>
-</tr>
-</table>
-
-**38K+ combined VS Code Marketplace installs.**
+<p align="center">
+  <img src="./assets/browser-extensions.png" width="100%" alt="Browser extensions and developer tools built by Waseem Akram" />
+</p>
 
 ---
 
